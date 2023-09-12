@@ -1,1 +1,29 @@
 /* your code */
+table{
+	border-collapse: collapse; 
+	
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.heading th{
+ width: 100px;
+	height: 30px;
+	background-color: violet;
+	color: white;
+	
+}
+tr td{
+	width: 100px;
+	height: 30px;
+	padding: 5px;
+	font-weight:300;
+	
+}
+td{
+	
+	margin-left: 10px;
+}
+.grey{
+	background-color: grey
+}
